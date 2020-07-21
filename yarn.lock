@@ -1249,10 +1249,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@level.codes/score@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@level.codes/score/-/score-1.0.1.tgz#a67c15f3b0d38a345862aa7c3971e566d268aab0"
-  integrity sha512-dSCx5jTuh0fkKMCixPsVqDQTFdBlx0GsfuH/2CpLl1GYTwurLEwpTapOatsB+ASlD81n775CIuwJe6h1X7706A==
+"@level.codes/score@^1.0.5":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@level.codes/score/-/score-1.0.6.tgz#da335e9132734da20f6ab612de384f64af13a2d7"
+  integrity sha512-Jdcf4VdIDrNw4HGrEyrbCW1e3T5PKsJz1v47L758FkzFLst6aXP6JEh32dtveI1vKqkfWmk9MGJ5y6DMl7+pKg==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.2"
@@ -4534,9 +4534,9 @@ lodash.sortby@^4.7.0:
   integrity sha1-7dFMgk4sycHgsKG0K7UhBRakJDg=
 
 lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
   version "1.4.0"
