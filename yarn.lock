@@ -1249,10 +1249,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@level.codes/score@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@level.codes/score/-/score-1.0.1.tgz#a67c15f3b0d38a345862aa7c3971e566d268aab0"
-  integrity sha512-dSCx5jTuh0fkKMCixPsVqDQTFdBlx0GsfuH/2CpLl1GYTwurLEwpTapOatsB+ASlD81n775CIuwJe6h1X7706A==
+"@level.codes/score@^1.0.5":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@level.codes/score/-/score-1.0.6.tgz#da335e9132734da20f6ab612de384f64af13a2d7"
+  integrity sha512-Jdcf4VdIDrNw4HGrEyrbCW1e3T5PKsJz1v47L758FkzFLst6aXP6JEh32dtveI1vKqkfWmk9MGJ5y6DMl7+pKg==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.2"
@@ -6930,9 +6930,9 @@ write-file-atomic@^3.0.0:
     typedarray-to-buffer "^3.1.5"
 
 ws@^7.2.3:
-  version "7.2.5"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.2.5.tgz#abb1370d4626a5a9cd79d8de404aa18b3465d10d"
-  integrity sha512-C34cIU4+DB2vMyAbmEKossWq2ZQDr6QEyuuCzWrM9zfw1sGc0mYiJ0UnG9zzNykt49C2Fi34hvr2vssFQRS6EA==
+  version "7.4.6"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.6.tgz#5654ca8ecdeee47c33a9a4bf6d28e2be2980377c"
+  integrity sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A==
 
 xml-name-validator@^3.0.0:
   version "3.0.0"
