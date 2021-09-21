@@ -1249,10 +1249,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@level.codes/score@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@level.codes/score/-/score-1.0.1.tgz#a67c15f3b0d38a345862aa7c3971e566d268aab0"
-  integrity sha512-dSCx5jTuh0fkKMCixPsVqDQTFdBlx0GsfuH/2CpLl1GYTwurLEwpTapOatsB+ASlD81n775CIuwJe6h1X7706A==
+"@level.codes/score@^1.0.5":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@level.codes/score/-/score-1.0.6.tgz#da335e9132734da20f6ab612de384f64af13a2d7"
+  integrity sha512-Jdcf4VdIDrNw4HGrEyrbCW1e3T5PKsJz1v47L758FkzFLst6aXP6JEh32dtveI1vKqkfWmk9MGJ5y6DMl7+pKg==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.2"
@@ -6435,9 +6435,9 @@ tiny-warning@^1.0.2:
   integrity sha512-lBN9zLN/oAf68o3zNXYrdCt1kP8WsiGW8Oo2ka41b2IM5JL/S1CTyX1rW0mb/zSuJun0ZUrDxx4sqvYS2FWzPA==
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
