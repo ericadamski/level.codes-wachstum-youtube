@@ -1249,10 +1249,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@level.codes/score@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@level.codes/score/-/score-1.0.1.tgz#a67c15f3b0d38a345862aa7c3971e566d268aab0"
-  integrity sha512-dSCx5jTuh0fkKMCixPsVqDQTFdBlx0GsfuH/2CpLl1GYTwurLEwpTapOatsB+ASlD81n775CIuwJe6h1X7706A==
+"@level.codes/score@^1.0.5":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@level.codes/score/-/score-1.0.6.tgz#da335e9132734da20f6ab612de384f64af13a2d7"
+  integrity sha512-Jdcf4VdIDrNw4HGrEyrbCW1e3T5PKsJz1v47L758FkzFLst6aXP6JEh32dtveI1vKqkfWmk9MGJ5y6DMl7+pKg==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.2"
@@ -2656,9 +2656,9 @@ decimal.js@^10.2.0:
   integrity sha512-vDPw+rDgn3bZe1+F/pyEwb1oMG2XTlRVgAa6B4KccTEpYgF8w6eQllVbQcfIJnZyvzFtFpxnpGtx8dd7DJp/Rw==
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-is@~0.1.3:
   version "0.1.3"
